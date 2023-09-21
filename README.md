@@ -13,8 +13,9 @@ First, you need to "pip install pyserial pynmea2"
 and the code attached to this repo
 
 The YouTube videos:
-Arabic: [Updating SOON]
-English: [Updating SOON]
+Arabic: https://youtu.be/WL0WEfDfkWU
+
+English: https://www.youtube.com/watch?v=mUsKgzem9ig
 
 
 
