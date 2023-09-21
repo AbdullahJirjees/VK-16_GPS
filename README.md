@@ -9,8 +9,12 @@ The User Manual:
 [u-center_UserGuide_(UBX-13005250).pdf](https://github.com/AbdullahJirjees/VK-16_GPS/files/12686214/u-center_UserGuide_.UBX-13005250.pdf)
 
 The Python code to RUN the GPS: 
-First, you need to pip install pyserial pynmea2
-and the code is here: 
+First, you need to "pip install pyserial pynmea2"
+and the code attached to this repo
+
+The YouTube videos:
+Arabic: [Updating SOON]
+English: [Updating SOON]
 
 
 
